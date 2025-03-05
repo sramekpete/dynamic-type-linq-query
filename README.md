@@ -1,5 +1,5 @@
-# dynamic-type-linq-query
+# Solution to Stack Overflow question
 
-How to force "dynamic" behavior in a LINQ expression with DynamicObject.
+Q: How to force "dynamic" behavior in a LINQ expression with DynamicObject?
 
 [Stack Overflow question](https://stackoverflow.com/questions/57336485/how-to-force-dynamic-behavior-in-a-linq-expression-with-dynamicobject)
