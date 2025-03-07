@@ -1,6 +1,4 @@
-# Q: How to force "dynamic" behavior in a LINQ expression with DynamicObject?
-
-TLDR:
+# How to force "dynamic" behavior in a LINQ expression with DynamicObject?
 
 By using `IDynamicMetaObjectProvider` and `DynamicMetaObject` types it is possible to decorate types with dynamic behavior.
 
